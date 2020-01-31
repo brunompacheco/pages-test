@@ -1,5 +1,11 @@
 **Probably** we will have an introductory text somewhere in the beginning.
 
+Some reference[^Test123]
+
+===
+
+[^Test123]: Lisha Li, Kevin Jamieson, Giulia DeSalvo, Afshin Rostamizadeh, Ameet Talwalkar (2018) Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization. Journal of Machine Learning Research 18(185):1–52.
+
 ## Then the title
 
 And, finally, the table:
