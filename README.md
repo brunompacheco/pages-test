@@ -4,12 +4,6 @@
 
 And, finally, the table:
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
 <div class="pa4">
   <div class="overflow-auto">
     <table class="f6 w-100 mw8 center" cellspacing="0">
@@ -56,3 +50,10 @@ And, finally, the table:
     </table>
   </div>
 </div>
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
