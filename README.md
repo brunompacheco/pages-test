@@ -3,7 +3,7 @@
 ## Then the title
 
 And, finally, the table:
-
+<style>
 .bb {
     border-bottom-style: solid;
     border-bottom-width: 1px;
@@ -66,6 +66,7 @@ And, finally, the table:
     margin-right: auto;
     margin-left: auto;
 }
+</style>
 
 <div class="pa4">
   <div class="overflow-auto">
