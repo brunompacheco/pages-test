@@ -2,21 +2,21 @@
 # Customize Options: Must Change
 #
 # Title:
-title: Duo, A Simple Jekyll Theme
+title: Test
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-url: "https://chibicode.github.io"
+url: "https://brunompacheco.github.io/pages-test/"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, remove this line.
-baseurl: "/duo/"
+baseurl: "/pages-test/"
 
 # Twitter IDs
 twitter:
-  username: "chibicode"
+  username: "none"
 author:
-  twitter: "chibicode"
+  twitter: "none"
 
 # Set default og:image
 # From Unsplash: https://unsplash.com/photos/1_CMoFsPfso
@@ -32,7 +32,7 @@ defaults:
 #
 # See: https://material.io/guidelines/style/color.html
 # Use color-name-value, like pink-200 or deep-purple-100
-brand_color: "amber-400"
+brand_color: "white-100"
 
 # How article URLs are structured.
 # See: https://jekyllrb.com/docs/permalinks/
@@ -45,10 +45,10 @@ google_analytics: ""
 lang: "en"
 
 # How many posts are visible on the home page without clicking "View More"
-num_posts_visible_initially: 5
+num_posts_visible_initially: 0
 
 # Date format: See http://strftime.net/
-date_format: "%b %-d, %Y"
+date_format: "%d/%m/%Y"
 # ----------------------------------------------------------------------------
 
 exclude:
